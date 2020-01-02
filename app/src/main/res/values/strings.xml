@@ -5,4 +5,9 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
+    <string name="login">Login</string>
+    <string name="add_channel_button">graphic for channel adding button</string>
+    <string name="please_log_in">Please log in</string>
+    <string name="message">message:</string>
+    <string name="send_message_button_desc">graphic for send message button</string>
 </resources>

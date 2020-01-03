@@ -14,4 +14,9 @@
     <string name="password">password</string>
     <string name="no_account_text">Don\'t have an account?</string>
     <string name="sign_up_here">Sign up here</string>
+    <string name="user_name">user name</string>
+    <string name="generate_user_avatar_text">Tap to generate user avatar</string>
+    <string name="generate_background_colour">Generate background colour</string>
+    <string name="create_user">Create User</string>
+    <string name="avatar_image_desc">image to set for avatar</string>
 </resources>
